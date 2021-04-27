@@ -1,0 +1,8 @@
+<resources>
+    <string name="song">SONG</string>
+    <string name="artist">ARTIST</string>
+    <string name="playlist">PLAYLIST</string>
+    <string name="exit">EXIT</string>
+</resources>
+
+
